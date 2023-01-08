@@ -1,0 +1,67 @@
+﻿  AVLTree.cpp
+  DSAProj2.cpp
+C:\Users\kptil\Code\DSAProj2\DSAProj2\DSAProj2.cpp(57,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kptil\Code\DSAProj2\DSAProj2\DSAProj2.cpp(94,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kptil\Code\DSAProj2\DSAProj2\DSAProj2.cpp(131,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kptil\Code\DSAProj2\DSAProj2\DSAProj2.cpp(405,39): warning C4244: 'argument': conversion from '_Rep' to '_Ty', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\kptil\Code\DSAProj2\DSAProj2\DSAProj2.cpp(413,39): warning C4244: 'argument': conversion from '_Rep' to '_Ty', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\kptil\Code\DSAProj2\DSAProj2\DSAProj2.cpp(417,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kptil\Code\DSAProj2\DSAProj2\DSAProj2.cpp(422,39): warning C4244: 'argument': conversion from '_Rep' to '_Ty', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\kptil\Code\DSAProj2\DSAProj2\DSAProj2.cpp(436,39): warning C4244: 'argument': conversion from '_Rep' to '_Ty', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\kptil\Code\DSAProj2\DSAProj2\DSAProj2.cpp(444,39): warning C4244: 'argument': conversion from '_Rep' to '_Ty', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\kptil\Code\DSAProj2\DSAProj2\DSAProj2.cpp(448,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kptil\Code\DSAProj2\DSAProj2\DSAProj2.cpp(453,39): warning C4244: 'argument': conversion from '_Rep' to '_Ty', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+          and
+          [
+              _Ty=int
+          ]
+  MinHeap.cpp
+C:\Users\kptil\Code\DSAProj2\DSAProj2\MinHeap.cpp(72,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kptil\Code\DSAProj2\DSAProj2\MinHeap.cpp(79,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\kptil\Code\DSAProj2\DSAProj2\AVLTree.cpp(91): warning C4715: 'AVLTree::balance': not all control paths return a value
+  DSAProj2.vcxproj -> C:\Users\kptil\Code\DSAProj2\Debug\DSAProj2.exe
